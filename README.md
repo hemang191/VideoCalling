@@ -1,5 +1,5 @@
 <h3>
-Stack used: I made this video calling app using WEBRTC . WEBRTC helps us to transfer our data (audio, video, documents) without a server and connection is established using UDP(user datagram protocol).
+Stack used: I made this video calling React app which uses  WEBRTC. WEBRTC helps us to transfer our data (audio, video, documents) without a server and connection is established using UDP(user datagram protocol).
 </h3>
 
 More about WEBRTC:
